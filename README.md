@@ -27,7 +27,7 @@ Tailored highlights for a seamless and modern Neovim workflow:
 
 ```lua
 {
-  "tu-usuario/dark-charcoal", -- Reemplazar con tu usuario de GitHub
+  "departamentoDeSoluciones/dark-charcoal", 
   lazy = false,
   priority = 1000,
   config = function()
