@@ -1,1 +1,1 @@
-require("colors.dark_charcoal").setup()
+require("colors.dark_charcoal").setup({ transparent = true })
